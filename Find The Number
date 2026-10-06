@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Print Number</title>
+</head>
+
+<body>
+    <script>
+        let number = 5;
+        document.write(number);
+    </script>
+</body>
+</html>
